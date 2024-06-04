@@ -50,7 +50,7 @@ const HomeContact = () => {
             {/* End Single Address  */}
 
             {/* Start Single Address  */}
-            <div className="w-full lg:w-1/3 md:w-1/2 sm:w-1/2 mb-12 lg:mb-0 px-4 mt-12 lg:mt-0">
+            <div className="w-full lg:w-1/3 md:w-1/2 sm:w-1/2 lg:mb-0 px-4 mt-12 lg:mt-0">
               <div className="bg-white p-6 rounded-lg border border-[#ebebeb] text-start h-full">
                 <div className="icon mb-4">
                   <FiMail className=" mx-auto" />
