@@ -35,7 +35,7 @@ const Footer = () => {
                   </li>
                   <li className="mb-4">
                     <a
-                      href="https://tailwindcss.com/"
+                      href="/about"
                       className="hover:underline"
                     >
                       About
@@ -43,7 +43,7 @@ const Footer = () => {
                   </li>
                   <li className="mb-4">
                     <a
-                      href="https://tailwindcss.com/"
+                      href="/contact"
                       className="hover:underline"
                     >
                       Contact Us
@@ -51,7 +51,7 @@ const Footer = () => {
                   </li>
                   <li className="mb-4">
                     <a
-                      href="https://tailwindcss.com/"
+                      href="/products"
                       className="hover:underline"
                     >
                       Products
@@ -131,7 +131,7 @@ const Footer = () => {
           <div className="sm:flex sm:items-center sm:justify-between">
             <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">
               © 2024{" "}
-              <a href="https://flowbite.com/" className="hover:underline">
+              <a href="/" className="hover:underline">
                 Lakshmi Lifts
               </a>
               . All Rights Reserved.
