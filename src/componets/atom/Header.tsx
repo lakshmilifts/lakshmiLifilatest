@@ -100,12 +100,12 @@ const Header = () => {
                 <div className="flex items-center justify-between">
                   <Link href="#" className="-m-1.5 p-1.5">
                     <span className="sr-only">Your Company</span>
-                    <Image
-        src="/companylogo.png"
-        alt="Company Logo"
-        width={300} // Actual width of your image
-        height={100} // Actual height of your image
-      />
+                    <svg width="230" height="50" xmlns="http://www.w3.org/2000/svg">
+    <rect x="0" y="0" width="135" height="50" fill="#2a2172"/>
+    <text x="10" y="35" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">LAKSHMI</text>
+    <rect x="130" y="0" width="80" height="50" fill="#2a2172"/>
+    <text x="130" y="35" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">LIFTS</text>
+  </svg>
                   </Link>
                   <button
                     type="button"
