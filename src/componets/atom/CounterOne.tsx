@@ -17,10 +17,6 @@ const CounterOne = () => {
       countTitle: "HAPPY CUSTOMERS",
     },
     {
-      countNum: 5,
-      countTitle: "SUCCESSFUL PROJECTS", //need to remove
-    },
-    {
         countNum: 100,
         countTitle: "SATISFIED CUSTOMERS",
       }

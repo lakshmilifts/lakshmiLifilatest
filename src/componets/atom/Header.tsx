@@ -61,7 +61,7 @@ const Header = () => {
                   fill="none"
                   viewBox="0 0 24 24"
                   strokeWidth="1.5"
-                  stroke="currentColor"
+                  stroke={isScrolled ? "#2a2172" : "white"}
                   aria-hidden="true"
                 >
                   <path

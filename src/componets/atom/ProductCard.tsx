@@ -6,7 +6,7 @@ const ProductCard  = (()=>{
     const products = [
         {
           id: 1,
-          title: "passanger Lift ",
+          title: "Passanger Lift ",
     
           icon:"/passangerLift.png" ,
         },
@@ -20,7 +20,7 @@ const ProductCard  = (()=>{
           id: 2,
           title: "Goods Lift",
         
-          icon:"/goods-lift.webp" ,
+          icon:"/goods-lift1.jpg" ,
         },
        
         {
